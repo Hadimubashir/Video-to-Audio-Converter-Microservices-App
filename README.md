@@ -5,9 +5,9 @@ A cloud-native microservices application that converts user-uploaded videos to M
 
  ![image](https://github.com/user-attachments/assets/ef712929-c667-4ddd-99c6-f9413075b1d3)
 
-##Deploying a Python-based Microservice Application on AWS EKS
+## Deploying a Python-based Microservice Application on AWS EKS
 
-#🚀 Features
+# 🚀 Features
 User authentication with JWT
 
 Video upload and audio (MP3) conversion
