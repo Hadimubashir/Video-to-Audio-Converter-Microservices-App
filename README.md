@@ -5,7 +5,7 @@ A cloud-native microservices application that converts user-uploaded videos to M
 
  ![image](https://github.com/user-attachments/assets/ef712929-c667-4ddd-99c6-f9413075b1d3)
 
-## Deploying a Python-based Microservice Application on AWS EKS
+# Deploying a Python-based Microservice Application on AWS EKS
 
 # 🚀 Features
 User authentication with JWT
@@ -20,42 +20,43 @@ REST APIs managed via an API Gateway microservice
 
 End-to-end workflow automation and validation via curl
 
-#🧰 Tools & Technologies
-🛠️ Core Stack
+# 🧰 Tools & Technologies
+
+# 🛠️ Core Stack
 Python
 
 Docker
 
 Kubernetes (EKS)
 
-📦 Infrastructure & Deployment
+# 📦 Infrastructure & Deployment
 AWS EKS
 
 Terraform
 
 Helm
 
-🗃️ Databases & Messaging
+# 🗃️ Databases & Messaging
 PostgreSQL
 
 MongoDB
 
 RabbitMQ
 
-🔒 Security & Integration
+#🔒 Security & Integration
 JWT Authentication
 
 Gmail SMTP (Email notifications)
 
 Kubernetes Secrets
 
-📁 Storage
+# 📁 Storage
 Amazon S3
 
-🧪 Testing & CLI
+# 🧪 Testing & CLI
 curl (for API testing)
 
-🧱 AWS Services Used
+# 🧱 AWS Services Used
 Amazon EKS
 
 Amazon EC2
